@@ -79,12 +79,12 @@ body{
 }
 .pro-features li.big-title {
 	font-weight: 600;
-	color: #1A76D1;
+	color: #dd8a1f;
 	font-size: 15px;
 }
 .pro-features li.title {
 	font-weight: 600;
-	color: #1A76D1;
+	color: #dd8a1f;
 	font-size: 15px;
 }
 .pro-features .button{}
@@ -113,7 +113,7 @@ body{
 	line-height: 45px;
 	font-size: 14px;
 	border-radius: 5px 0 0 5px;
-	background: #1A76D1;
+	background: #dd8a1f;
 	text-align: center;
 	color: #fff;
 	top: 0;
@@ -127,7 +127,7 @@ body{
 	bottom: 15px;
 	right: 15px;
 	padding: 10px 20px;
-	background: #1a76d1;
+	background: #dd8a1f;
 	color: #fff;
 	font-size: 25px;
 	width: 45px;
@@ -170,7 +170,7 @@ body{
 	line-height: 45px;
 	font-size: 21px;
 	border-radius: 5px 0 0 5px;
-	background: #1A76D1;
+	background: #dd8a1f;
 	text-align: center;
 	color: #fff !important;
 	top: 0;
@@ -200,7 +200,7 @@ body{
 	cursor:pointer;
 }
 .color-plate span.color1{
-	background:#1A76D1;
+	background:#dd8a1f;
 }
 .color-plate span.color2{
 	background:#2196F3;
@@ -273,7 +273,7 @@ body{
 	font-weight:400;
 }
 .header .top-link li:hover a{
-	color:#1A76D1;
+	color:#dd8a1f;
 }
 .header .top-contact{
 	float:right;
@@ -290,10 +290,10 @@ body{
 	font-size:14px;
 }
 .header .top-contact li a:hover{
-	color:#1A76D1;
+	color:#dd8a1f;
 }
 .header .top-contact li i{
-	color:#1A76D1;
+	color:#dd8a1f;
 	margin-right:8px;
 }
 .header .header-inner {
@@ -3492,7 +3492,7 @@ body{
 	height: 50px;
 	border-radius: 5px;
 	cursor: pointer;
-	background: #1A76D1;
+	background: #dd8a1f;
 	display: inline-block;
 	position: relative;
 	top: -2px;
@@ -3518,7 +3518,7 @@ body{
 .mail-seccess .success-inner h1 {
 	font-size: 100px;
 	text-shadow: 3px 5px 2px #3333;
-	color: #1A76D1;
+	color: #dd8a1f;
 	font-weight: 700;
 }
 .mail-seccess .success-inner h1 span {
@@ -3614,7 +3614,7 @@ body{
 .doctor-calendar-table table thead tr th {
   vertical-align: middle;
   text-align: center;
-  background-color: #1A76D1;
+  background-color: #dd8a1f;
   border: none;
   color: #ffffff;
   text-transform: uppercase;
@@ -3661,7 +3661,7 @@ body{
 .doctor-calendar-table table tbody tr td span.time {
   display: inline-block;
   background-color: #dff5e8;
-  color: #1A76D1;
+  color: #dd8a1f;
   width: 65px;
   height: 65px;
   border-radius: 50%;
@@ -3672,8 +3672,8 @@ body{
   font-size: 16px;
 }
 .doctor-calendar-table table tbody tr td:hover {
-  background-color: #1A76D1;
-  border-color: #1A76D1;
+  background-color: #dd8a1f;
+  border-color: #dd8a1f;
 }
 .doctor-calendar-table table tbody tr td:hover h3 {
   color: #ffffff;
@@ -3683,7 +3683,7 @@ body{
 }
 .doctor-calendar-table table tbody tr td:hover span.time {
   background-color: #ffffff;
-  color: #1A76D1;
+  color: #dd8a1f;
 }
 .doctor-calendar-table table tbody tr:last-child td {
   border-bottom: none;
@@ -3719,7 +3719,7 @@ body{
 .about-content span {
   display: block;
   margin-bottom: 5px;
-  color: #1A76D1;
+  color: #dd8a1f;
   font-size: 17px;
 }
 .about-content h2 {
@@ -3750,7 +3750,7 @@ body{
 	text-align: center;
 	border-radius: 100%;
 	background-color: #1A76D12B;
-	color: #1A76D1;
+	color: #dd8a1f;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
 	display: inline-block;
@@ -3760,7 +3760,7 @@ body{
 	top: -2px;
 }
 .about-content ul li:hover i {
-  background-color: #1A76D1;
+  background-color: #dd8a1f;
   color: #ffffff;
 }
 .about-content ul li:last-child {
@@ -3794,7 +3794,7 @@ body{
   height: 60px;
   line-height: 60px;
   border-radius: 100%;
-  background-color: #1A76D1;
+  background-color: #dd8a1f;
   color: #ffffff;
   font-size: 25px;
   -webkit-transition: 0.5s;
@@ -3822,7 +3822,7 @@ body{
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #1A76D1;
+  background-color: #dd8a1f;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -3849,7 +3849,7 @@ body{
 }
 .single-vision-box:hover .icon {
   background-color: #fff;
-  color: #1A76D1;
+  color: #dd8a1f;
 }
 .single-vision-box:hover h3 {
   color: #ffffff;
@@ -3889,7 +3889,7 @@ body{
 .our-mission-content .sub-title {
   display: block;
   margin-bottom: 5px;
-  color: #1A76D1;
+  color: #dd8a1f;
   font-size: 17px;
 }
 .our-mission-content h2 {
@@ -3936,7 +3936,7 @@ body{
   line-height: 50px;
   text-align: center;
   border-radius: 50%;
-  color: #1A76D1;
+  color: #dd8a1f;
   font-size: 20px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -3950,7 +3950,7 @@ body{
   font-size: 17px;
 }
 .our-mission-content ul li:hover .icon {
-  background-color: #1A76D1;
+  background-color: #dd8a1f;
   color: #ffffff;
   border-radius: 100%;
 }
@@ -3969,7 +3969,7 @@ body{
 .footer .footer-top{
 	padding:100px 0px;
 	position:relative;
-	background:#1A76D1;
+	background:#dd8a1f;
 }
 .footer .footer-top:before{
 	position:absolute;
@@ -4008,7 +4008,7 @@ body{
 	font-size: 16px;
 }
 .footer .single-footer .social li a:hover{
-	color:#1A76D1;
+	color:#dd8a1f;
 	background:#fff;
 	border-color:transparent;
 }
@@ -4141,7 +4141,7 @@ body{
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
 	border-radius: 0 5px 5px 0;
-	color: #1A76D1;
+	color: #dd8a1f;
 	font-size: 25px;
 }
 .footer .single-footer .newsletter-inner .button i{
@@ -4153,7 +4153,7 @@ body{
 	color:#2C2D3F;
 }
 .footer .copyright{
-	background:#1A76D1;
+	background:#dd8a1f;
 	padding:25px 0px 25px 0px;
 	text-align:center;
 }
